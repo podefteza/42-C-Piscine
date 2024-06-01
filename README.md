@@ -2,21 +2,5 @@
 
 These are my solutions to each project in the 42 C Piscine. Please note that these implementations reflect my approach to solving the problems and may not necessarily be the most correct or efficient solutions.
 
-C Piscine Shell 00 ✅ 67
-C Piscine Shell 01 ✅ 70
 
-C Piscine C 00 ✅ 50
-C Piscine C 01 ✅ 100
-C Piscine C 02 ✅ 75
-C Piscine C 03 ✅ 50
-C Piscine C 04 ✅ 70
-C Piscine C 05 ✅ 80
-C Piscine C 06 ✅ 100
-C Piscine C 07 ✅ 60
-
-C Piscine Rush 00 ✅ 100
-
-C Piscine Exam 00 ✅ 40
-C Piscine Exam 01 ✅ 40
-C Piscine Exam 02 ✅ 50
-C Piscine Final Exam ✅ 60
+![grades](https://i.ibb.co/6Zsb76f/Screenshot-from-2024-06-01-16-41-10.png)
