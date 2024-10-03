@@ -1,4 +1,4 @@
-# 42-C-Piscine 🏊🏻‍♂️
+# 42 C Piscine 🏊🏻‍♂️
 
 These are my solutions to each project in the C Piscine that took place in 42 Porto campus from January 8th to February 2nd, 2024. Please note that these implementations reflect my approach to solving the problems and may not necessarily be the most correct or efficient solutions.
 
